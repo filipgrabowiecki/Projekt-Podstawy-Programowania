@@ -6,6 +6,11 @@ import numpy as np
 import csv
 from matplotlib.ticker import MultipleLocator, MaxNLocator
 
+
+# Poprawność zadań: 10.5/11
+# Dodatki: 1.5/2
+# Znormalizowane: 0,9230769231
+
 def ex_1():
     print("\n","ZADANIE 1","\n")
     onetohundered = []
